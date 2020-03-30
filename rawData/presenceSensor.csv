@@ -1,0 +1,3 @@
+type, description, v, freq, powc
+LoRa presence sensor, room, 240V, 50Hz, 54W
+sensor,infra red sensor,240V,915 MHZ,2x3.6W
